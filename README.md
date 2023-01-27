@@ -1,4 +1,4 @@
-# 🙏 Plase use you're brain when you read this code, before using it.
+# IIM A2.1 Node.js + Express + Socket.io app 
 
 ## Prerequisites
 - [Node.js v19+](https://nodejs.org/en/)

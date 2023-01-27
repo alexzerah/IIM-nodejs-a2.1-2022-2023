@@ -9,4 +9,8 @@ button.addEventListener('click', () => {
             firstName: "Alex"
         })
     })
-})
+});
+
+const socket =  io("http://localhost:3000/");
+
+socket.emit("/d", {msg: "coucou 👋"});
